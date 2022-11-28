@@ -1,5 +1,5 @@
 # **Lina**
-[<img src="https://user-images.githubusercontent.com/89158986/204212371-32cb6a60-84e1-4a66-864d-16e855e2e8da.jpeg" width="250"/>]
+<img src="https://user-images.githubusercontent.com/89158986/204212371-32cb6a60-84e1-4a66-864d-16e855e2e8da.jpeg" width="250"/>
 ## Contact Information:
 Saida-Lebanon
 71364950
